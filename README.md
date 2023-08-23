@@ -3,20 +3,21 @@ This is the repository of small projects I have done throughout the years for ei
 
 List of projects: (https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/#)
 
-https://www.youtube.com/shorts/ZqS_lnqSgeY 
-X Random Number Generator
-- Number Guessing game
-- Word guessing game (Wordle clone)
-- Hangman Game
-- 2048
-X Minesweeper
-- desktop notifier
-- Keylogger - use pynput
-- Create countdown timer
-- Screen and / or voive recorder
-
-- autoclicker
-- webscraping / fetch data
-- face detection
-- live webcam
-- 
+- [ ] File organizer - https://www.youtube.com/shorts/ZqS_lnqSgeY 
+- [ ] Unit Converter - same link as above
+- [ ] QR code generator -same link as above for future RR
+- [x] Random Number Generator
+- [ ] Number Guessing game
+- [x] Word guessing game (Wordle clone)
+- [ ] Hangman Game
+- [ ] 2048
+- [x] Minesweeper
+- [ ] desktop notifier
+- [ ] Keylogger - use pynput
+- [ ] Create countdown timer
+- [ ] Screen and / or voive recorder
+- [ ] autoclicker
+- [ ] webscraping / fetch data
+- [ ] face detection
+- [ ] live webcam
+  
